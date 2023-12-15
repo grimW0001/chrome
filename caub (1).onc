@@ -1,0 +1,1 @@
+{"Type":"UnencryptedConfiguration","NetworkConfigurations":[{"GUID":"LTSD-CHROME-WPA-EAP","Metered":true,"Name":"LTSD-CHROME","Type":"WiFi","WiFi":{"AutoConnect":true,"SSID":"LTSD-CHROME","Security":"None"}}]}
